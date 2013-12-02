@@ -13,6 +13,8 @@ public class Boulier {
 
         }
 
+        tirage.triLesBoules();
+
         return tirage;
     }
 

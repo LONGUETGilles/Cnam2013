@@ -6,8 +6,5 @@ public class main {
         simulation.simule(5);
         simulation.AfficherResultat();
 
-
-        // Lancer une partie de loto
-
     }
 }

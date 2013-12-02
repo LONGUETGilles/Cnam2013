@@ -1,3 +1,6 @@
+import java.lang.reflect.Array;
+import java.util.Arrays;
+
 public class CombinaisonDeBoules {
 
     private int[] boules;
@@ -22,12 +25,12 @@ public class CombinaisonDeBoules {
         boolean gagne = true;
 
         for (int i = 0; i < boules.length; i++) {
-            if (!estContenue(boules[i], autreCombinaison.boules)) {
-                gagne = false;
+            if (!(boules[i]== autreCombinaison.boules[i])) {
+                return false;
             }
         }
 
-        return gagne;
+        return true;
     }
 
     private boolean estContenue(int boule, int[] tirage){
@@ -41,6 +44,10 @@ public class CombinaisonDeBoules {
         }
 
         return contenue;
+    }
+
+    public void triLesBoules(){
+        Arrays.sort(boules);
     }
 
 }

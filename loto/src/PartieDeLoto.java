@@ -16,13 +16,14 @@ public class PartieDeLoto {
         maGrille.add(i3);
         maGrille.add(i4);
         maGrille.add(i5);
+        maGrille.triLesBoules();
 
         boulier = new Boulier();
 
     }
 
     public void LancerUnTour(){
-        //System.out.println("Partie initialisée...");
+        System.out.println("Partie initialisée...");
         boolean gagne = false;
 
         while (!gagne){
