@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class JeuDe421 {
 
     private Joueur j1;
@@ -23,11 +25,12 @@ public class JeuDe421 {
 
     public void JouerUnePartie(){
 
-        Joueur[] listeJoueurs = new Joueur[4];
-        listeJoueurs[0] = j1;
-        listeJoueurs[1] = j2;
-        listeJoueurs[2] = j3;
-        listeJoueurs[3] = j4;
+        ArrayList<Joueur> listeJoueurs;
+        listeJoueurs = new ArrayList<Joueur>();
+        listeJoueurs.add(j1);
+        listeJoueurs.add(j2);
+        listeJoueurs.add(j3);
+        listeJoueurs.add(j4);
 
 
 

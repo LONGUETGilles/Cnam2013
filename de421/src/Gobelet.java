@@ -1,21 +1,24 @@
+import java.util.ArrayList;
+
 public class Gobelet {
 
     public De de1;
     public De de2;
     public De de3;
 
-    De[] des = new De[3];
+    ArrayList<De> des ;
 
 
     public  Gobelet(){
+        des = new ArrayList<De>();
         de1 = new De();
         de2 = new De();
         de3 = new De();
 
 
-        des[0] = de1;
-        des[1] = de2;
-        des[2] = de3;
+        des.add(de1);
+        des.add(de2);
+        des.add(de3);
     }
 
 
@@ -32,11 +35,11 @@ public class Gobelet {
         return  (ATonUn4(des));
     }
 
-    private int SommeDesDes(De[] des){
-        return (des[0].LireValeur() + des[1].LireValeur() + des[2].LireValeur());
+    private int SommeDesDes(ArrayList<De> des){
+        return (des.get(0).LireValeur() + des.get(1).LireValeur() + des.get(2).LireValeur());
     }
 
-    private boolean ATonUn4(De[] des){
+    private boolean ATonUn4(ArrayList<De> des){
         for (De d: des){
             if (d.LireValeur() == 4) return true;
         }
@@ -47,7 +50,7 @@ public class Gobelet {
         int[] valeursDes = new int[3];
 
         for (int v= 0; v<3; v++) {
-            valeursDes[v] = des[v].LireValeur();
+            valeursDes[v] = des.get(v).LireValeur();
         }
         return valeursDes;
     }
