@@ -1,0 +1,16 @@
+un jeu de bataille, 52 cartes.
+
+deux joueurs
+
+chaque joueur tire au hasard une carte jusqu'à ce qu'il n'y en ai plus
+
+à chaque tour de jeu
+
+chaque joueur tire une carte
+
+celui qui à la carte la plus forte, ajoute les 2 cartes sous son paquet
+
+en cas d'égalité, rien ne se passe. (v1)
+
+ordre des cartes :
+2(1), 3(2), 4(3), 5(4), 6(5), 7(6), 8(7), 9(8), 10(9), V(10), Q(11), K(12), As(13)

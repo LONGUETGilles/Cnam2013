@@ -2,6 +2,8 @@ import java.util.ArrayList;
 
 public class JeuDe421 {
 
+    private ArrayList<Joueur> listeJoueurs;
+
     private Joueur j1;
     private Joueur j2;
     private Joueur j3;
@@ -12,6 +14,8 @@ public class JeuDe421 {
     private Gobelet gobelet;
 
     public JeuDe421() {
+
+        listeJoueurs = new ArrayList<Joueur>();
 
         j1 = new Joueur("toto");
         j2 = new Joueur("tata");
@@ -25,8 +29,6 @@ public class JeuDe421 {
 
     public void JouerUnePartie(){
 
-        ArrayList<Joueur> listeJoueurs;
-        listeJoueurs = new ArrayList<Joueur>();
         listeJoueurs.add(j1);
         listeJoueurs.add(j2);
         listeJoueurs.add(j3);

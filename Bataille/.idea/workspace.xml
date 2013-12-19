@@ -1,33 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23b8765b-6204-4477-837a-442f01a87e20" name="Default" comment="" />
-    <ignored path="de421.iws" />
+    <list default="true" id="26f822eb-a901-4c21-8a21-32c240e221a3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../de421/out/production/de421/JeuDe421.class" afterPath="$PROJECT_DIR$/../de421/out/production/de421/JeuDe421.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../de421/src/JeuDe421.java" afterPath="$PROJECT_DIR$/../de421/src/JeuDe421.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../de421/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../de421/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../loto/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../loto/.idea/workspace.xml" />
+    </list>
+    <ignored path="Bataille.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Joueur.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1387363562204" ignored="false" />
-    <file path="/De.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1383153847972" ignored="false" />
-    <file path="/JeuDe421.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1387351670639" ignored="false" />
-    <file path="/main.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1385812609480" ignored="false" />
-    <file path="/fragment.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1382954753410" ignored="false" />
-    <file path="$PROJECT_DIR$/../NFA031/src/Gobelet.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1383385208254" ignored="false" />
-    <file path="$PROJECT_DIR$/../NFA031/src/JeuDeDe.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1383387752489" ignored="false" />
-    <file path="/Gobelet.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1385944513146" ignored="false" />
-    <file path="/JeuDeDe.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1383384252931" ignored="false" />
-    <file path="$PROJECT_DIR$/../NFA031/src/Main.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1383385385041" ignored="false" />
-    <file path="/Main.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1384591337359" ignored="false" />
-    <file path="$PROJECT_DIR$/../NFA031/src/Joueur.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1383384968055" ignored="false" />
-    <file path="$PROJECT_DIR$/../untitled1/src/Affichage1a100.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1384591295208" ignored="false" />
-    <file path="$PROJECT_DIR$/../untitled1/src/Main.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1384591380691" ignored="false" />
-    <file path="/Affichage1a100.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1384591329159" ignored="false" />
-    <file path="$PROJECT_DIR$/../untitled1/src/FizzBuzz.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1384594066828" ignored="false" />
-    <file path="$PROJECT_DIR$/../loto/.idea/workspace.xml" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1387371603811" ignored="false" />
-    <file path="$PROJECT_DIR$/../Bataille/src/PartieBataille.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1387366152983" ignored="false" />
-    <file path="/PartieBataille.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1387364351173" ignored="false" />
-    <file path="$PROJECT_DIR$/../Bataille/src/Pioche.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1387364817843" ignored="false" />
-    <file path="/Pioche.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1387366096065" ignored="false" />
-    <file path="$PROJECT_DIR$/../Bataille/src/Joueur.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1387363692289" ignored="false" />
-    <file path="$PROJECT_DIR$/../Bataille/src/Carte.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1387364244856" ignored="false" />
-    <file path="$PROJECT_DIR$/../Bataille/src/paquet.java" changelist="23b8765b-6204-4477-837a-442f01a87e20" time="1387366124713" ignored="false" />
+    <file path="/bataille.txt" changelist="26f822eb-a901-4c21-8a21-32c240e221a3" time="1387397105883" ignored="false" />
+    <file path="/main.java" changelist="26f822eb-a901-4c21-8a21-32c240e221a3" time="1387378622972" ignored="false" />
+    <file path="/fragment.java" changelist="26f822eb-a901-4c21-8a21-32c240e221a3" time="1387359756631" ignored="false" />
+    <file path="/PartieBataille.java" changelist="26f822eb-a901-4c21-8a21-32c240e221a3" time="1387462286264" ignored="false" />
+    <file path="/Pioche.java" changelist="26f822eb-a901-4c21-8a21-32c240e221a3" time="1387377069529" ignored="false" />
+    <file path="/Joueur.java" changelist="26f822eb-a901-4c21-8a21-32c240e221a3" time="1387457859319" ignored="false" />
+    <file path="/Carte.java" changelist="26f822eb-a901-4c21-8a21-32c240e221a3" time="1387449862689" ignored="false" />
+    <file path="/paquet.java" changelist="26f822eb-a901-4c21-8a21-32c240e221a3" time="1387372775922" ignored="false" />
+    <file path="/Paquet.java" changelist="26f822eb-a901-4c21-8a21-32c240e221a3" time="1387456956943" ignored="false" />
+    <file path="/Main.java" changelist="26f822eb-a901-4c21-8a21-32c240e221a3" time="1387387631004" ignored="false" />
+    <file path="/Dummy.txt" changelist="26f822eb-a901-4c21-8a21-32c240e221a3" time="1387461995844" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +34,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -79,37 +70,20 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="de421" />
+    <favorites_list name="Bataille" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Joueur.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Joueur.java">
+      <file leaf-file-name="bataille.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bataille.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="21" selection-start="21" selection-end="318" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="De.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/De.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="5" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JeuDe421.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JeuDe421.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="472" selection-end="472" vertical-scroll-proportion="0.06749556">
+            <state line="15" column="58" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -118,16 +92,52 @@
       <file leaf-file-name="main.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
+            <state line="6" column="17" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gobelet.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Gobelet.java">
+      <file leaf-file-name="PartieBataille.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PartieBataille.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="26" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.0">
+            <state line="37" column="29" selection-start="1106" selection-end="1106" vertical-scroll-proportion="2.0809247">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayList.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-1.7.0-openjdk-amd64/jre/lib/rt.jar!/java/util/ArrayList.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="164" column="0" selection-start="5910" selection-end="5910" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Paquet.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Paquet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="0" selection-start="738" selection-end="738" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Carte.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Carte.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="36" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Joueur.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Joueur.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="9" selection-start="1033" selection-end="1033" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -140,14 +150,27 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/De.java" />
-        <option value="$PROJECT_DIR$/src/Joueur.java" />
+        <option value="$PROJECT_DIR$/src/TasDeCarte.java" />
+        <option value="$PROJECT_DIR$/src/Pioche.java" />
+        <option value="$PROJECT_DIR$/src/paquet.java" />
         <option value="$PROJECT_DIR$/src/main.java" />
-        <option value="$PROJECT_DIR$/src/Gobelet.java" />
-        <option value="$PROJECT_DIR$/src/JeuDe421.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/bataille.txt" />
+        <option value="$PROJECT_DIR$/src/Carte.java" />
+        <option value="$PROJECT_DIR$/src/Paquet.java" />
+        <option value="$PROJECT_DIR$/src/Joueur.java" />
+        <option value="$PROJECT_DIR$/src/PartieBataille.java" />
       </list>
     </option>
   </component>
@@ -156,7 +179,7 @@
     <option name="width" value="1366" />
     <option name="height" value="741" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -182,75 +205,81 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="de421" />
+              <option name="myItemId" value="Bataille" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="de421" />
+              <option name="myItemId" value="Bataille" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="de421" />
+              <option name="myItemId" value="Bataille" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="de421" />
+              <option name="myItemId" value="Bataille" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="de421" />
+              <option name="myItemId" value="Bataille" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="de421" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="de421" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gobelet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="restartRequiresConfirmation" value="true" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/HiBrice" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Application.jeuDe421">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration default="false" name="main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Bataille" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -339,36 +368,42 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="jeuDe421" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="de421" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.jeuDe421" />
+      <item index="0" class="java.lang.String" itemvalue="Application.main" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="23b8765b-6204-4477-837a-442f01a87e20" name="Default" comment="" />
-      <created>1382953506513</created>
-      <updated>1382953506513</updated>
+      <changelist id="26f822eb-a901-4c21-8a21-32c240e221a3" name="Default" comment="" />
+      <created>1387356676068</created>
+      <updated>1387356676068</updated>
     </task>
     <servers />
   </component>
@@ -381,21 +416,21 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293718" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293718" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13429439" sideWeight="0.70118845" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29881155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962063" sideWeight="0.3599321" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.64006793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39898133" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -463,112 +498,110 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JeuDe421.java">
+    <entry file="file://$PROJECT_DIR$/src/PartieBataille.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="44" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
+        <state line="98" column="0" selection-start="2967" selection-end="2967" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.7.0-openjdk-amd64/jre/lib/rt.jar!/java/util/ArrayList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="164" column="0" selection-start="5910" selection-end="5910" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Paquet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Carte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="77" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Joueur.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="895" selection-end="895" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bataille.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/De.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="354" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JeuDe421.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="44" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="181" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Joueur.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/De.java">
+    <entry file="file://$PROJECT_DIR$/../Cnam-Nfa031-4-Bataille/bataille.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="1" selection-start="511" selection-end="511" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JeuDe421.java">
+    <entry file="jar:///usr/lib/jvm/java-1.7.0-openjdk-amd64/jre/lib/rt.jar!/java/net/URLClassLoader.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="26" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="48" column="0" selection-start="2563" selection-end="2563" vertical-scroll-proportion="0.64426875" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java">
+    <entry file="file://$PROJECT_DIR$/bataille.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="28" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gobelet/java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="53" selection-start="198" selection-end="198" vertical-scroll-proportion="0.44474393">
+        <state line="15" column="58" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
+        <state line="6" column="17" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/De.java">
+    <entry file="jar:///usr/lib/jvm/java-1.7.0-openjdk-amd64/jre/lib/rt.jar!/java/util/ArrayList.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="5" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
+        <state line="164" column="0" selection-start="5910" selection-end="5910" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Carte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="36" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Paquet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="738" selection-end="738" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Joueur.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="21" selection-start="21" selection-end="318" vertical-scroll-proportion="0.0">
+        <state line="35" column="9" selection-start="1033" selection-end="1033" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-6-openjdk-amd64/jre/lib/rt.jar!/java/util/ArrayList.class">
+    <entry file="file://$PROJECT_DIR$/src/PartieBataille.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="72" selection-start="423" selection-end="423" vertical-scroll-proportion="0.32085562" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gobelet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="26" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JeuDe421.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="472" selection-end="472" vertical-scroll-proportion="0.06749556">
+        <state line="37" column="29" selection-start="1106" selection-end="1106" vertical-scroll-proportion="2.0809247">
           <folding />
         </state>
       </provider>
