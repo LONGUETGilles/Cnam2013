@@ -44,7 +44,7 @@ public class Joueur {
         return paquet.tireUneCarte(0);
     }
 
-    public int tailleDePaquet(){      // renvoi la taille du paquet du joueur
+    public int aCombiendeCarte(){      // renvoi la taille du paquet du joueur
         return this.paquet.getSize();
     }
 }

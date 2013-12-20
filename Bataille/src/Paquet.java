@@ -8,7 +8,21 @@ public class Paquet {
         paquet = new ArrayList<Carte>();
     }
 
-    public Carte getCarteAleatoire(){      //prendre une carte
+    public Paquet(String etat) {
+        if (etat == "paquet52"){
+
+            paquet = new ArrayList<Carte>();
+            paquet.addAll(creerFamille("Coeur"));
+            paquet.addAll(creerFamille("Trèfle"));
+            paquet.addAll(creerFamille("Carreau"));
+            paquet.addAll(creerFamille("Pique"));
+        }
+        else System.out.println("Erreur : création de paquet");
+
+        if (paquet.size() != 52) System.out.println("erreur : taille de pioche non correcte");
+    }
+
+    public Carte tirerUneCarteAleatoire(){      //prendre une carte
         int index = (int)(Math.random() * paquet.size());
         Carte c;
            c = (paquet.get(index));
@@ -61,16 +75,5 @@ public class Paquet {
         familleDe.add(new Carte(14, "As de " + famille));
 
         return familleDe;
-    }
-
-    public void creerPaquet52() {
-        paquet.addAll(creerFamille("Coeur"));
-        paquet.addAll(creerFamille("Trèfle"));
-        paquet.addAll(creerFamille("Carreau"));
-        paquet.addAll(creerFamille("Pique"));
-    }
-
-    public void removeAll() {
-        for (int i =0; i < paquet.size(); i++) paquet.remove(i);
     }
 }
